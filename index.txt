@@ -8,3 +8,4 @@ i am fine
 
 new line from feature1
 
+hello new msg
